@@ -8,7 +8,7 @@
     <div class="container">
         <h1 class="display-4 fw-bold">Amplang Khas Kalimantan</h1>
         <p class="lead">Rasa autentik yang membawa kenangan pulang ke Kalimantan</p>
-        <a href="{{ route('program') }}" class="btn btn-primary btn-lg mt-3">Lihat Produk Kami</a>
+        <a href="{{ route('program.index') }}" class="btn btn-primary btn-lg mt-3">Lihat Produk Kami</a>
     </div>
 </section>
 
